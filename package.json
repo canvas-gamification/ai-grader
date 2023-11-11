@@ -1,0 +1,23 @@
+{
+  "name": "ai-grader",
+  "version": "1.0.0",
+  "description": "Ai grader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canvas-gamification/ai-grader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canvas-gamification/ai-grader/issues"
+  },
+  "homepage": "https://github.com/canvas-gamification/ai-grader#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "openai": "^4.16.1"
+  }
+}
